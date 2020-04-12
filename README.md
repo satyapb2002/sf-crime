@@ -1,6 +1,6 @@
-## SF Crime Statistics with Spark Streaming
+### SF Crime Statistics with Spark Streaming
 
-#Step 1
+## Step 1
 The first step is to build a simple Kafka server.
 Complete the code for the server in producer_server.py and kafka_server.py.
 Local Environment
